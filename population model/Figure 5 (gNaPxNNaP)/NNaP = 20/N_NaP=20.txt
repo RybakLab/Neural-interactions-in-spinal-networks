@@ -1,0 +1,42 @@
+----
+gGap = 0.060
+gNaP = 2.50
+period = 21.23
+stdP = 9.84
+amplitude = 17.0
+stdA = 0.2
+----
+gGap = 0.060
+gNaP = 3.00
+period = 10.40
+stdP = 0.06
+amplitude = 19.7
+stdA = 0.1
+----
+gGap = 0.060
+gNaP = 3.50
+period = 7.32
+stdP = 0.27
+amplitude = 19.8
+stdA = 0.4
+----
+gGap = 0.060
+gNaP = 4.00
+period = 6.13
+stdP = 0.02
+amplitude = 19.5
+stdA = 0.3
+----
+gGap = 0.060
+gNaP = 4.50
+period = 5.38
+stdP = 0.01
+amplitude = 19.1
+stdA = 0.2
+----
+gGap = 0.060
+gNaP = 5.00
+period = 5.01
+stdP = 0.01
+amplitude = 19.2
+stdA = 0.2

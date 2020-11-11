@@ -1,0 +1,21 @@
+----
+gGap = 0.060
+wSyn = 0.00
+period = 3.70
+stdP = 0.01
+amplitude = 37.7
+stdA = 0.1
+----
+gGap = 0.030
+wSyn = 0.75
+period = 3.03
+stdP = 0.03
+amplitude = 48.5
+stdA = 0.6
+----
+gGap = 0.000
+wSyn = 1.50
+period = 2.63
+stdP = 0.23
+amplitude = 51.1
+stdA = 2.6
